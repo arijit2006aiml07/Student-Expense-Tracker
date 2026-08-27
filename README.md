@@ -42,46 +42,44 @@ It allows users to add expenses, view all recorded expenses, calculate total spe
 Student-Expense-Tracker/
 │
 ├── student_expense_tracker.py
+├── output1.png
+├── output2.png
+├── output3.png
+├── output4.png
+├── output5.png
 └── README.md
+```
 
 
-• Learning Outcomes
+🎯 Learning Outcomes
 Through this project, I learned how to use Python functions, lists, dictionaries, loops, conditional statements, user input, searching, and basic calculations to build a simple real-world application.
 
-
-• Future Improvements
+🚀 Future Improvements
 Save expenses permanently using CSV files
 Add monthly expense reports
 Add graphical charts
 Add a graphical user interface (GUI)
 Add database support
 
-
-• Author
+👤 Author
 Arijit Goswami
 
-
-
-
-## 📸 Sample Output
-
-The following screenshots show the program running successfully.
 
 ## 📸 Sample Output
 
 The following screenshots show the program running successfully.
 
 ### Output 1
-![Output 1](https://raw.githubusercontent.com/arijit2006aiml07/Student-Expense-Tracker/main/output1.png)
+![Output 1](output1.png)
 
 ### Output 2
-![Output 2](https://raw.githubusercontent.com/arijit2006aiml07/Student-Expense-Tracker/main/output2.png)
+![Output 2](output2.png)
 
 ### Output 3
-![Output 3](https://raw.githubusercontent.com/arijit2006aiml07/Student-Expense-Tracker/main/output3.png)
+![Output 3](output3.png)
 
 ### Output 4
-![Output 4](https://raw.githubusercontent.com/arijit2006aiml07/Student-Expense-Tracker/main/output4.png)
+![Output 4](output4.png)
 
 ### Output 5
-![Output 5](https://raw.githubusercontent.com/arijit2006aiml07/Student-Expense-Tracker/main/output5.png)
+![Output 5](output5.png)
