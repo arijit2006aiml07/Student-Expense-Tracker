@@ -60,3 +60,28 @@ Add database support
 • Author
 Arijit Goswami
 
+
+
+
+## 📸 Sample Output
+
+The following screenshots show the program running successfully.
+
+## 📸 Sample Output
+
+The following screenshots show the program running successfully.
+
+### Output 1
+![Output 1](https://raw.githubusercontent.com/arijit2006aiml07/Student-Expense-Tracker/main/output1.png)
+
+### Output 2
+![Output 2](https://raw.githubusercontent.com/arijit2006aiml07/Student-Expense-Tracker/main/output2.png)
+
+### Output 3
+![Output 3](https://raw.githubusercontent.com/arijit2006aiml07/Student-Expense-Tracker/main/output3.png)
+
+### Output 4
+![Output 4](https://raw.githubusercontent.com/arijit2006aiml07/Student-Expense-Tracker/main/output4.png)
+
+### Output 5
+![Output 5](https://raw.githubusercontent.com/arijit2006aiml07/Student-Expense-Tracker/main/output5.png)
